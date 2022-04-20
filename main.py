@@ -42,4 +42,6 @@ print(str(division))
 
 #import ListII
 
-import midterm
+#import midterm
+
+import ClassAssignment

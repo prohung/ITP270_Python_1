@@ -12,4 +12,6 @@ def middle_element(lst):
 
 print(middle_element([5, 2, -10, -4, 4, 5]))
 
-#Question #2
+olympic_sports = ["Hockey", "Swimming", "Fencing", "Volleyball", "Breakdancing"]
+
+print(olympic_sports[-3:])
